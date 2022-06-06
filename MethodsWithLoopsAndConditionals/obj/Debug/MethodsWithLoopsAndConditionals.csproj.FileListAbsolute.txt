@@ -1,0 +1,6 @@
+C:\Users\corey\Desktop\csharp27\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\MethodsWithLoopsAndConditionals.exe
+C:\Users\corey\Desktop\csharp27\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\bin\Debug\MethodsWithLoopsAndConditionals.pdb
+C:\Users\corey\Desktop\csharp27\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\corey\Desktop\csharp27\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\corey\Desktop\csharp27\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.exe
+C:\Users\corey\Desktop\csharp27\MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals\obj\Debug\MethodsWithLoopsAndConditionals.pdb
